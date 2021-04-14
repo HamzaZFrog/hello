@@ -1,2 +1,2 @@
 # hello!
-Conan sample project
+Conan sample project!
